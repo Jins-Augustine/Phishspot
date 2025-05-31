@@ -54,7 +54,7 @@ An email claims that your Bradesco card has **92,990 Livelo points** expiring to
 ✅ **Yes**  
 🔍 IP `137.184.34.4` is reported on [AbuseIPDB](https://abuseipdb.com) and [VirusTotal](https://www.virustotal.com/gui/ip-address/137.184.34.4)
 
-![IP Reputation](screenshots/ip-reputation.png)
+![IP Reputation](screenshots/ip-reputation.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ The SPF check failed due to a DNS Timeout. Indicates possible misconfiguration o
 🔗 `https://blog1seguimentmydomaine2bra[.]me/`  
 (Disguised as Bradesco but not affiliated)
 
-![Suspicious Link](screenshots/suspicious-link.png)
+![Suspicious Link](screenshots/suspicious-link.jpg)
 
 ---
 
@@ -80,9 +80,9 @@ The SPF check failed due to a DNS Timeout. Indicates possible misconfiguration o
 
 | Screenshot         | Description                                 |
 |--------------------|---------------------------------------------|
-| `email-header.png`  | Header with `From`, `Return-Path`, and IP  |
-| `ip-reputation.png` | IP lookup on VirusTotal or AbuseIPDB        |
-| `suspicious-link.png` | Hovered phishing link                      |
+| `email-header.jpg`  | Header with `From`, `Return-Path`, and IP  |
+| `ip-reputation.jpg` | IP lookup on VirusTotal or AbuseIPDB        |
+| `suspicious-link.jpg` | Hovered phishing link                      |
 
 ---
 
