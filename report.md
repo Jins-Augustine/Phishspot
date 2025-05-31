@@ -46,6 +46,8 @@ An email claims that your Bradesco card has **92,990 Livelo points** expiring to
 🌐 `137.184.34.4`
 
 > Found in the `Received:` header line from `ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06`.
+>
+> ![Email Header](screenshots/email-header.jpg)
 
 ---
 
@@ -76,7 +78,7 @@ The SPF check failed due to a DNS Timeout. Indicates possible misconfiguration o
 
 ---
 
-## 📸 Screenshots Required
+## 📸 Screenshots
 
 | Screenshot         | Description                                 |
 |--------------------|---------------------------------------------|
